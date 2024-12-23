@@ -1,30 +1,72 @@
-Hi 👋 My name is Erwin Mongui
-=============================
+# Erwin Mongui  
+**Back-End Developer | Systems Engineer**  
+*Toronto, Canada* 🌍  
 
-Back End Developer
-------------------
+---
 
-Competent and qualified Systems Engineer to work in the technology, software development, and computer industry. I have the skill and attitude of leadership to give technological solutions in any sector, with an innovative, curious, proactive analysis and software development mindset.
+As a **Systems Engineer** with a passion for software development, I specialize in building robust, scalable solutions for modern applications. With a strong foundation in back-end technologies and a continuous learning mindset, I thrive in dynamic environments where innovation and problem-solving are key. I am currently expanding my skill set in **Machine Learning** to stay at the forefront of technology.
 
-* 🌍  I'm based in Toronto, Canada
-* ✉️  You can contact me at [erwinmongui@gmail.com](mailto:erwinmongui@gmail.com)
-* 🧠  I'm learning Machine Learning
-* ⚡  Willingness to learn and adapt to new technologies and processes.
+**Contact Information:**  
+📧 [erwinmongui@gmail.com](mailto:erwinmongui@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/erwin-mongui)  
+🌐 [Personal Website](http://www.erwinmongui.com)  
 
-### Skills
+---
 
+## Core Competencies  
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+### Back-End Development  
+- **Languages:** Python, C#, JavaScript  
+- **Frameworks & Libraries:** Django, Flask, FastAPI, .NET  
+- **Databases:** MongoDB, PostgreSQL, MySQL, Oracle  
+- **Cloud & DevOps:** AWS, Google Cloud, Docker  
 
+### Front-End Development  
+- **Languages:** HTML5, CSS3, JavaScript  
+- **Frameworks:** React, Next.js  
 
-### Socials
+### Machine Learning  
+- **Libraries & Tools:** TensorFlow, PyTorch  
+- **Areas of Focus:** Supervised Learning, Deep Learning  
 
-<p align="left"> <a href="https://www.github.com/gelnomo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/erwin-mongui" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/erwinmongui" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## Technical Skills  
 
-<b>My GitHub Stats</b>
+| Category                  | Technologies & Tools                                                           |
+|---------------------------|--------------------------------------------------------------------------------|
+| **Languages**              | Python, C#, JavaScript, SQL                                                   |
+| **Frameworks**             | Django, Flask, FastAPI, .NET, React, Next.js                                  |
+| **Databases**              | MongoDB, MySQL, PostgreSQL, Oracle                                           |
+| **Cloud & DevOps**         | AWS, Google Cloud, Docker, Git                                                |
+| **Machine Learning**       | TensorFlow, PyTorch, Pandas, NumPy                                            |
+| **Operating Systems**      | Linux, MacOS                                                                  |
 
-<a href="http://www.github.com/gelnomo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gelnomo&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+---
+
+## GitHub Stats
+
+[![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelnomo&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/gelnomo)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gelnomo&theme=radical)](https://github.com/gelnomo)
+
+---
+
+## Projects & Open Source Contributions
+
+I regularly contribute to open-source projects and build personal projects to further develop my skills. Here are a few noteworthy repositories:
+
+- [Project A: Machine Learning API](https://github.com/gelnomo/project-a)
+- [Project B: Backend Development with Django](https://github.com/gelnomo/project-b)
+- [Project C: Full Stack Application with React & Node.js](https://github.com/gelnomo/project-c)
+
+---
+
+## Let's Connect!
+
+- **GitHub:** [gelnomo](https://github.com/gelnomo)  
+- **LinkedIn:** [erwin-mongui](https://www.linkedin.com/in/erwin-mongui)  
+- **Medium:** [erwinmongui](https://medium.com/@erwinmongui)
+
+---
+
+*Always open to new opportunities and collaborations. Let’s build something impactful together!*
