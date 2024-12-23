@@ -47,7 +47,6 @@ As a **Systems Engineer** with a passion for software development, I specialize 
 ## GitHub Stats
 
 [![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelnomo&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/gelnomo)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gelnomo&theme=radical)](https://github.com/gelnomo)
 
 ---
 
