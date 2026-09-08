@@ -87,8 +87,8 @@ Eighteen years of building the platforms behind customer-facing products, and th
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gelnomo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelnomo&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gelnomo&theme=tokyonight" alt="GitHub stats" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gelnomo&theme=tokyonight" alt="Top languages" height="200"/>
 </p>
 
 <p align="center">
