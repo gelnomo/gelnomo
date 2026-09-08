@@ -84,13 +84,6 @@ Eighteen years of building the platforms behind customer-facing products, and th
 
 ---
 
-## 🚀 Featured Work
-
-- 🧬 [**National Inter-University Big Data & AI Challenge 2023**](https://github.com/gelnomo/ART.-National-Inter-University-Big-Data-And-AI-Challenge-2023) — Leveraging open data analytics and machine learning to improve diagnosis of rare diseases and patient care.
-- 🌐 [**erwinmongui.com**](https://github.com/gelnomo/erwinmongui) — Source for my personal site, with the full story of my experience, impact and certifications.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
