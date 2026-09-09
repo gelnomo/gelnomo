@@ -134,5 +134,6 @@ Eighteen years of building the platforms behind customer-facing products, and th
   <a href="https://www.linkedin.com/in/erwin-mongui/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="https://www.erwinmongui.com"><img src="https://img.shields.io/badge/Website-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
+![Profile views](https://ga4-readme-pixel.erwinmongui.workers.dev/badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%" alt=""/>![](https://ga4-readme-pixel.erwinmongui.workers.dev/pixel.gif?path=gelnomo-profile)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%" alt=""/>
