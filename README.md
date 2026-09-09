@@ -1,3 +1,4 @@
+![](https://ga4-readme-pixel.erwinmongui.workers.dev/pixel.gif?path=gelnomo-profile)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Erwin%20Mongui&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Engineering%20Leader%20%C2%B7%20Director%20of%20Technology%20%C2%B7%20Certified%20AI%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Erwin Mongui"/>
 
 <p align="center">
